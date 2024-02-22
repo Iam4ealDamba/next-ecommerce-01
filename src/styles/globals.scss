@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow-x: hidden;
+}
+body {
+  @apply bg-tw_primary text-tw_text;
+  letter-spacing: 0.15rem;
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "John D. Falcon - Spring Edition",
+    "link": "/shop/1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nobis earum ipsam quod dicta veniam officiis, error at eius vero, nisi accusamus neque reiciendis dolore eum amet consequuntur magnam animi!",
+    "img": "/images/glasses.jpg",
+    "price": "99.00",
+    "promo": true
+  },
+  {
+    "id": 2,
+    "title": "John D. Falcon - Spring Edition",
+    "link": "/shop/1",
+    "img": "/images/glasses.jpg",
+    "price": "99.00",
+    "promo": true
+  },
+  {
+    "id": 3,
+    "title": "John D. Falcon - Spring Edition",
+    "link": "/shop/1",
+    "img": "/images/glasses.jpg",
+    "price": "99.00",
+    "promo": true
+  },
+  {
+    "id": 4,
+    "title": "John D. Falcon - Spring Edition",
+    "link": "/shop/1",
+    "img": "/images/glasses.jpg",
+    "price": "99.00",
+    "promo": true
+  },
+  {
+    "id": 5,
+    "title": "John D. Falcon - Spring Edition",
+    "link": "/shop/1",
+    "img": "/images/glasses.jpg",
+    "price": "99.00",
+    "promo": true
+  },
+  {
+    "id": 6,
+    "title": "John D. Falcon - Spring Edition",
+    "link": "/shop/1",
+    "img": "/images/glasses.jpg",
+    "price": "99.00",
+    "promo": true
+  }
+]
